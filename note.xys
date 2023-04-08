@@ -1,0 +1,105 @@
+/* tablet  */
+
+/* @media (max-width:768px) {
+    .First_page nav ul {
+        display: none;
+    }
+    .burger {
+        display: block;
+        margin-left: 80%;
+        margin-top: 10px;
+    }
+    .Number {
+        display: none;
+    }
+    .First_data .right img {
+        height: 200px;
+        width: 200px;
+    }
+    .First_page {
+        height: 74vh;
+    }
+    .first_text .left h3 {
+        padding: 5px 10px;
+    }
+
+    .second_page{
+        flex-direction: column;
+    }
+    .second_page .second_left img {
+        height: 400px;
+        width: 700px;
+        border-radius: 20px;
+    }
+    .third_page {
+        flex-direction: column;
+        margin-top: 20px;
+    }
+    .third_left div {
+        font-size: 30px;
+        color: #00cba9;
+        border: 0.1px solid rgb(177, 173, 173);
+        width: 70%;
+        padding-block: 5%;
+        margin-left: 16%;
+    
+    }
+    .fifth_page .services img {
+        height: 110px;
+        border: 0.2px solid rgb(201, 197, 197);
+        padding: 40px;
+        transform: rotate(-40deg);
+        margin-top: 40px;
+        margin-left: 110px;
+    }
+    .sixth_page .heading {
+        background-color: #00cba9;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 700px;
+        margin-left: 0%;
+        padding: 10px 0;
+        gap: 20px;
+        border-radius: 20px;
+    }
+    .sixth_page .projects{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        margin-top: 40px;
+        justify-content: center;
+        align-items: center;
+    
+    }
+    .projects div {
+        background-color:rgb(243, 236, 236); 
+        padding: 20px 80px;
+        overflow: hidden;
+    }
+    .seventh_page .heading{
+        display: flex;
+        background-color: #00cba9;
+        width: 700px;
+        justify-content: center;
+        padding: 10px 0;
+        align-items: center;
+        border-radius: 10px;
+
+    }
+    .seventh_page_container{
+        flex-direction: column;
+    }
+    .sevanth_left {
+        display: flex;
+        flex-basis: 50%;
+        background-color: white;
+        gap: 200px;
+        height: 400px;
+        padding: 20px 30px;
+    }
+  
+    
+} */
+
+/* phoen  */
